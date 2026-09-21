@@ -1,2 +1,2 @@
 # Analisis-inventario
-Vencimiento de productos proximos a vencer
+Sistema de control de vencimiento
